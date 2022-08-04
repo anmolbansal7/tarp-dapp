@@ -1,1 +1,9 @@
 /* Styles go here */
+
+body{
+    font-size: 14px !important;
+}
+
+.form-control, .form-group{
+    font-size: 0.75rem!important;
+}
